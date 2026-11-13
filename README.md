@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**amoisejr/amoisejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Amoise 👋
 
-Here are some ideas to get you started:
+**Aspiring data analyst building projects and dashboards.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Dashboard](https://img.shields.io/badge/View%20my-dashboard-2563EB?style=for-the-badge)](https://github.com/amoisejr/Astrel-Portofilo/blob/main/astrel_moise_portfolio.html)
+
+</div>
+
+## Featured projects
+
+- **[Portfolio dashboard](https://github.com/amoisejr/Astrel-Portofilo/blob/main/astrel_moise_portfolio.html)** — Explore my portfolio dashboard.
+- **[Data analytics portfolio](https://github.com/amoisejr/Data-Analystics-Portfolio-)** — End-to-end data pipeline using Python, an API, and MySQL.
+- **[Bank churn](https://github.com/amoisejr/Bank-Churn)** — A project exploring bank customer churn.
+- **[Weather project](https://github.com/amoisejr/Weather-Project-)** — A weather-focused project.
+
+## Find me
+
+- [GitHub repositories](https://github.com/amoisejr?tab=repositories)
+
+---
+
+Thanks for stopping by!
